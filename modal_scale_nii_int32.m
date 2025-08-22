@@ -8,16 +8,17 @@
 %
 % 9/22/2005 - First version
 % 9/23/2005 - Version 2 - which reads header from source files and writes
-% 9/27/2005 - Version 3 which eliminates the header information copy bug (
-% just copy the hdr.vsize to nhdr.vsize)
-% 7/28/2020 - Version 4, which eliminates manual header input and uses
-% MATLAB built-in functions niftiread() niftiwrite() niftiinfo()
-% them
+% 9/27/2005 - Version 3 which eliminates the header information copy bug (just copy the hdr.vsize to nhdr.vsize)
+% 7/28/2020 - Taylor W. Uselman Version 4, which eliminates manual header input and uses MATLAB built-in functions niftiread() niftiwrite() niftiinfo() - Taylor W. Uselman
+% 
 % Krish Subramaniam 
 % CBIC, Caltech
 %
-% 5/04/2020 - Version 4 - uses MATLAB's nifti (read, info, write)
-% functions instad of header structure 
+% 7/28/2020 - Version 4 - which replaces NIfTI header structures formatting with MATLAB built-in functions niftiread() niftiwrite() niftiinfo()
+% 8/16/2023 - Version 5 - option to save histograms as PNGs
+%
+% Taylor W. Uselman
+% University of New Mexico 
 %--------------------------------
 clc;
 close all;
@@ -128,4 +129,5 @@ end
 
     
     
+
  
