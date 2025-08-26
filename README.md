@@ -6,7 +6,7 @@ Modal scaling determines the modal intensity value of a template image's graysca
 
 An example of an Image's grayscale histogram before and after scaling, and relative to the template's, is shown below:
 
-![Example](https://github.com/bearerlab/modal-scaling/blob/master/ModalScalingExample.png?raw=true)
+![Example](ModalScalingExample.png)
 
 ## Dependencies
 
