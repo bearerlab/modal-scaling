@@ -12,14 +12,21 @@ An example of an Image's grayscale histogram before and after scaling, and relat
 
 This code requires MATLAB 2017b or newer, and should be compatible with any MATLAB-compatible operating system. 
 
-[MATLAB Download]([https://www.mathworks.com/products/matlab.html](https://www.mathworks.com/downloads/))
+[MATLAB Download](https://www.mathworks.com/downloads/)
+
+Upon release of MATLAB R2017b with built-in functions for processing NIfTI files - niftiread(), niftiwrite() and niftiinfo() - the code was no longer compatiable and required updates. The updated code is posted in this repository. For MATLAB scripts using older versions of MATLAB, please see the code posted in [Medina et al. (2017), _Current Protocols_](https://doi.org/10.1002/cpmb.40)
 
 
-
-## Referemces
-
-This code was originally used in [XX](XX). Upon release of MATLAB R2017b with built-in functions for processing NIfTI files - niftiread(), niftiwrite() and niftiinfo() - the code was no longer compatiable and required updates. The updated code is posted here.
+## References
 
 [1. ](XX)
 
 [2. ](XX)
+
+[3. ](XX)
+
+[4. ](XX)
+
+[5. ](XX)
+
+[6. ](XX)
