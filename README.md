@@ -19,7 +19,7 @@ Upon release of MATLAB R2017b with built-in functions for processing NIfTI files
 
 ## References
 
-[1. Bearer EL, Zhang X, Jacobs RE. Live imaging of neuronal connections by magnetic resonance: Robust transport in the hippocampal-septal memory circuit in a mouse model of Down syndrome. Neuroimage. 2007 Aug 1;37(1):230-42. doi: 10.1016/j.neuroimage.2007.05.010](https://pmc.ncbi.nlm.nih.gov/articles/PMC2074885/)
+[1. ](https://pmc.ncbi.nlm.nih.gov/articles/PMC2074885/) Bearer EL, Zhang X, Jacobs RE. Live imaging of neuronal connections by magnetic resonance: Robust transport in the hippocampal-septal memory circuit in a mouse model of Down syndrome. Neuroimage. 2007 Aug 1;37(1):230-42. doi: 10.1016/j.neuroimage.2007.05.010
 
-[2. Medina CS, Manifold-Wheeler B, Gonzales A, Bearer EL. Automated Computational Processing of 3-D MR Images of Mouse Brain for Phenotyping of Living Animals. Curr Protoc Mol Biol. 2017 Jul 5;119:29A.5.1-29A.5.38. doi: 10.1002/cpmb.40.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6195809/)
+[2. ](https://pmc.ncbi.nlm.nih.gov/articles/PMC6195809/) Medina CS, Manifold-Wheeler B, Gonzales A, Bearer EL. Automated Computational Processing of 3-D MR Images of Mouse Brain for Phenotyping of Living Animals. Curr Protoc Mol Biol. 2017 Jul 5;119:29A.5.1-29A.5.38. doi: 10.1002/cpmb.40.
 
